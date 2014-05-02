@@ -1,0 +1,1 @@
+# aop-msg [![NPM version](https://badge.fury.io/js/aop-msg.png)](http://badge.fury.io/js/aop-msg) [![Build Status](https://travis-ci.org/kaelzhang/node-aop-msg.png?branch=master)](https://travis-ci.org/kaelzhang/node-aop-msg) [![Dependency Status](https://gemnasium.com/kaelzhang/node-aop-msg.png)](https://gemnasium.com/kaelzhang/node-aop-msg)
